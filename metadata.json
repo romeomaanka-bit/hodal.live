@@ -1,0 +1,7 @@
+{
+  "name": "Hodal.live",
+  "description": "Live voice chat rooms, social parties, private messaging, luxury gift effects, and multiplayer Ludo games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
